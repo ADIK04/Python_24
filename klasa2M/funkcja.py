@@ -10,9 +10,15 @@ def popoludnie():
     print('Obiad')
     print('Nauka')
     print('Gierka')
+   
+def wieczor():
+    print('Toaleta')
+    print('Kolacja')
+    print('Piżama')
     print('Kima')
 
 def moj_dzien():
     poranek()
     popoludnie()
+    wieczor()
 moj_dzien()

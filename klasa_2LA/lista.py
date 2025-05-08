@@ -22,9 +22,9 @@ warzywa = ['kalarepa','pomidor']
 # 6. Dodaj nowy owoc do listy owoce_i_warzywa za pomocą metody append '
 warzywa.append('sałata')
 print(warzywa)
-# 7. Usun z listy owoce_i_warzywa 10 element za pomocą metody pop
+# 7. Usun z listy owoce_i_warzywa 10 element za pomocą metody pop(sprawdz na w3schools)
 # 8. Dodaj listę owoce_i_warzywa do listy owoce za pomocą metody append
-# 9. Posortuj listę owoce_i_warzywa za pomocą metody sort
-# lista_elementow.sort()
+# 9. Posortuj listę owoce_i_warzywa za pomocą metody sort(sprawdz na w3schools)
+
 
 
