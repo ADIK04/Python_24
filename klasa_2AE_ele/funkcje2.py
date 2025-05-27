@@ -1,8 +1,12 @@
-def reszta_z_dzielenia(a,b):
-    return a % b
+# def reszta_z_dzielenia(a,b):
+#     return a % b
 
-a = int(input('Podaj a: '))
-b = int(input('Podaj b: '))
+# a = int(input('Podaj a: '))
+# b = int(input('Podaj b: '))
 
-print('Reszta z dzielenia: ')
-print(reszta_z_dzielenia(a,b))
+# print('Reszta z dzielenia: ')
+# print(reszta_z_dzielenia(a,b))
+
+def dodawanie(a,b):
+    return a+b
+print(dodawanie())
